@@ -20,7 +20,7 @@ This project serves a pre‑trained ONNX sentiment analysis model through a Fast
 ## Project Structure
 
 
-# Trigger CI/CD
+# Trigger CI/CD after fixing structure
 
 
 
